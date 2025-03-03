@@ -1,10 +1,10 @@
 terraform {
   cloud {
 
-    organization = "your-organization"
+    organization = "Plasmak"
 
     workspaces {
-      name = "your-workspace"
+      name = "actual-budget"
     }
   }
 }

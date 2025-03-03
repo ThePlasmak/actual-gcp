@@ -13,5 +13,5 @@ variable "billing_alert_currency_code" {
 variable "billing_alert_amount" {
   type        = string
   description = "Amount to set for the billing alert."
-  default     = "5"
+  default     = "1"
 }
